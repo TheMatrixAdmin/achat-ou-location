@@ -117,7 +117,8 @@ L’utilisateur peut explorer les différentes données de chaque scénarios :
 ## 👤 Auteur
 S.H.
 Autodidacte.
-📧 achat-ou-location@proton.me  
+📧 achat-ou-location@proton.me
+
 <a href="https://www.buymeacoffee.com/achatoulocation.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
