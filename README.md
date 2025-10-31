@@ -59,6 +59,16 @@ Deux formulaires permettent de définir le profil financier :
 
 ---
 
+### Synthèse et recommandations
+
+Une **analyse textuelle claire** explique les résultats selon les hypothèses (taux, durée, inflation, rendement…).
+
+<div align="center">
+<a href="https://ibb.co/k2SDchhw"><img src="https://i.ibb.co/Kxrsy99f/synthese-achat-ou-location.png" alt="synthese-achat-ou-location" border="0"></a>
+</div>
+
+---
+
 ### Une analyse comparative
 
 L’outil calcule le patrimoine net au fil du temps et affiche :
@@ -72,16 +82,6 @@ L’outil calcule le patrimoine net au fil du temps et affiche :
 
 <div align="center">
 <a href="https://ibb.co/WNV52rHw"><img src="https://i.ibb.co/Y40QL5NM/recommandation-achat-ou-location.png" alt="recommandation-achat-ou-location" border="0"></a>
-</div>
-
----
-
-### Synthèse et recommandations
-
-Une **analyse textuelle claire** explique les résultats selon les hypothèses (taux, durée, inflation, rendement…).
-
-<div align="center">
-<a href="https://ibb.co/k2SDchhw"><img src="https://i.ibb.co/Kxrsy99f/synthese-achat-ou-location.png" alt="synthese-achat-ou-location" border="0"></a>
 </div>
 
 ---
