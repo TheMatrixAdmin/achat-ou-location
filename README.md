@@ -6,7 +6,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
 ![Django](https://img.shields.io/badge/Django-5.1-green?logo=django)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue?logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-Secured-green?logo=nginx)
 ![Security](https://img.shields.io/badge/Security-CSP%20Hardened-orange)
 ![Privacy](https://img.shields.io/badge/RGPD-Compliant-lightgrey)
