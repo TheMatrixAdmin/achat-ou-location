@@ -6,7 +6,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
 ![Django](https://img.shields.io/badge/Django-5.1-green?logo=django)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?logo=gunicorn&logoColor=white)
 ![SQlite3](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-Secured-green?logo=nginx)
 ![Security](https://img.shields.io/badge/Security-CSP%20Hardened-orange)
