@@ -33,9 +33,9 @@ Développé par mes soins, — ce projet met en avant mes compétences en **dév
 | **Backend** | Django (Python 3.12), Gunicorn, SQLite3 |
 | **Frontend** | CSS3, HTML5, JavaScript |
 | **Infrastructure** | Docker, Docker Compose, Nginx |
-| **Sécurité** | CSP renforcé, Fail2Ban, CrowdSec, TLS |
+| **Sécurité** | Trivy, Fail2Ban, CrowdSec, TLS |
 | **Monitoring & RGPD** | GoAccess, Cookiebot, Google Tag Manager, Appzi |
-| **Outils & CI/CD** | Bash, Git, Trivy |
+| **Outils & CI/CD** | Bash, Git |
 
 ---
 
