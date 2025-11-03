@@ -35,7 +35,7 @@ Développé par mes soins, — ce projet met en avant mes compétences en **dév
 | **Infrastructure** | Docker, Docker Compose, Nginx |
 | **Sécurité** | CSP renforcé, Fail2Ban, CrowdSec, TLS |
 | **Monitoring & RGPD** | GoAccess, Cookiebot, Google Tag Manager, Appzi |
-| **Outils & CI/CD** | Bash, Git, VPS |
+| **Outils & CI/CD** | Bash, Git, Trivy |
 
 ---
 
@@ -104,14 +104,10 @@ L’utilisateur peut explorer les différentes données de chaque scénarios :
 
 - 🔐 **Content-Security-Policy** stricte
 - ⚔️ Protection **Fail2Ban + CrowdSec** sur le serveur  
-- ☁️ Déploiement **conteneurisé via Docker / Nginx reverse proxy**  
+- ☁️ Déploiement **conteneurisé via Docker / Nginx reverse proxy**, scan des images avec **Trivy**  
 - 🧾 **Cookies conformes RGPD** avec gestion via Cookiebot  
 - 📡 Monitoring via script maison & **GoAccess**
 - 🧮 **Durcissement** du système debian et de ssh (clé asymétrique), audit **Lynis/ClamAV**
-
----
-
-| 🌍 Lien | [https://achat-ou-location.com](https://achat-ou-location.com) |
 
 ---
 
