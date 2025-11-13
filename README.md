@@ -102,12 +102,12 @@ L’utilisateur peut explorer les différentes données de chaque scénarios :
 
 ## Les meilleurs pratiques en terme de durcissement et sécurité
 
-- 🔐 **Content-Security-Policy** stricte
-- ⚔️ Protection **Fail2Ban + CrowdSec** sur le serveur  
-- ☁️ Déploiement **conteneurisé via Docker / Nginx reverse proxy**, scan des images avec **Trivy**  
-- 🧾 **Cookies conformes RGPD** avec gestion via Cookiebot  
-- 📡 Monitoring via script maison & **GoAccess**
-- 🧮 **Durcissement** du système debian et de ssh (clé asymétrique), audit **Lynis/ClamAV**
+- **Content-Security-Policy** stricte
+- Protection **Fail2Ban + CrowdSec** sur le serveur  
+- Déploiement **conteneurisé via Docker / Nginx reverse proxy**, scan des images avec **Trivy**  
+- **Cookies conformes RGPD** 
+- Monitoring via script maison & **GoAccess**
+- **Durcissement** du système debian et de ssh (clé asymétrique), audit **Lynis/ClamAV**
 
 ---
 
@@ -120,4 +120,4 @@ Autodidacte.
 
 ---
 
-> 🧾 *Ce projet est une vitrine technique personnelle, développée et maintenue indépendamment.*
+🧾 *Ce projet est une vitrine technique personnelle, développée et maintenue indépendamment.*
