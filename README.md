@@ -2,7 +2,7 @@
 <a href="https://ibb.co/d0DcRk79"><img src="https://i.ibb.co/WWf3LBs9/achat-ou-location-thematrixadmin.png" alt="achat-ou-location-thematrixadmin" border="0"></a>
 </div>
 
-# 🏡 achat-ou-location.com — Simulateur Acheter vs Louer
+# achat-ou-location.com — Simulateur Acheter vs Louer
 
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
 ![Django](https://img.shields.io/badge/Django-5.1-green?logo=django)
